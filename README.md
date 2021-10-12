@@ -1,4 +1,6 @@
-![Header image](https://raw.githubusercontent.com/timmydalton/timmydalton/master/Cover.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timmydalton/timmydalton/master/Cover.png" />
+</p>
 
 I'm a tech enthusiast who loves to learn about new things.
 
