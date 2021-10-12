@@ -11,4 +11,4 @@
 ## ⚡ Contacts
 
 [![Instagram Badge](https://img.shields.io/badge/-timmydalton-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tlml___/)](https://www.instagram.com/tlml___/)
-
+[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:timmydalton2k@gmail.com)
