@@ -1,1 +1,1 @@
-![Header image](https://raw.githubusercontent.com/timmydalton/timmydalton/master/Assets/Cover.jpg)
+![Header image](https://raw.githubusercontent.com/timmydalton/timmydalton/master/Cover.jpg)
