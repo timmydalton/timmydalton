@@ -1,4 +1,4 @@
-<p align="center" width = "100%">
+<p align="center">
   <img src="https://raw.githubusercontent.com/timmydalton/timmydalton/master/Cover.png" />
 </p>
 
